@@ -1,0 +1,387 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta https-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name = "keywords" content = "math, mathematics">
+	<meta name = "description" content = "Personal web page of Joshua Ruiter.">
+	<link rel="stylesheet" type="text/css" href="https://users.math.msu.edu/users/ruiterj2/style.css"/>
+	<title> Math | Joshua Ruiter </title>
+</head>
+
+<body>
+
+<header>
+	<h1> Math </h1>
+	<nav>
+		<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/"> Home </a>
+		<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/"> Math </a>		
+		<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/teaching/"> Teaching </a>
+		<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/music/"> Music </a>
+	</nav> 
+</header>
+
+<section>
+<p>
+	My current mathematical interests are in group cohomology, Brauer groups, algebraic K-theory, Chevalley groups, and algebraic groups. This page contains an assortment of my mathematical writing, including seminar talk notes, homework sets, and other things.
+</p>
+</section>
+
+<section>
+<h3> Various seminar talks </h3>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Infinite Galois Theory.pdf"> Infinite Galois Theory </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Homology Functor.pdf"> Homology Functor in an Abelian Category  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Ostrowski's Theorem.pdf"> Ostrowski's Theorem  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Root systems.pdf"> Root systems  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Norm map of algebraic groups - Student Seminar 1.pdf"> Norm map of algebraic groups 1  </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes and talks/Norm map of algebraic groups - Student Seminar 2.pdf"> Norm map of algebraic groups 2  </a>
+
+</nav>
+</section>
+
+<section>
+<h3> Publications </h3>
+<p>
+	Note that I am not the sole author.
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Publications/An Algebraic Characterization of Highly Connected 2n-Manifolds.pdf"> An Algebraic Characterization of Highly Connected 2n-Manifolds </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Publications/Consensus and clustering in opinion formation on networks.pdf"> Consensus and clustering in opinion formation on networks </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Homological algebra and sheaf cohomology - Fall 2019
+</h3>
+<p>
+	Professor: Igor Rapinchuk </br>
+</p>
+</section>
+
+<section>
+<h3>
+	Algebraic Groups - Summer 2019
+</h3>
+<p>
+	Professor: Rajesh Kulkarni </br>
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Summer 2019/Algebraic Groups/Notes for class on algebraic groups.pdf"> Notes from class  </a>
+</nav>
+</section>
+
+<section>
+<h3> Comprehensive exam materials - Spring 2019 </h3>
+<p>
+	The following are various resources I created for myself in preparation for my comprehensive exam in Spring 2019. The topics of the exam were group cohomology, Brauer groups, algebraic K-theory, and some algebraic number theory.
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Comprehensive exam/Group cohomology, Brauer groups, and algebraic K-theory.pdf"> Main review document - Group cohomology, Brauer groups, and algebraic K-theory </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Comprehensive exam/Review problems.pdf"> Problems and examples, worked out </a>
+</nav>
+</section>
+
+
+<section>
+<h3> Seminar on Galois cohomology, Brauer groups, and local class field theory - Spring 2019 </h3>
+<p>
+	These are notes for a student seminar that I ran with the help of Nick Rekuski and Suo Jun (Stan) Tan at Michigan State University during spring of 2019. 
+	Of the notes below, Stan wrote notes and presented for weeks 4, 5, 12, and 13, and Nick wrote notes and presented weeks 2, 8, and part of 9. The rest (1,3,6,7,9,10,11) are my own notes.
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Outline of Topics.pdf"> Outline of topics and sources </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 1.pdf"> Week 1 - Intro to group cohomology </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 2.pdf"> Week 2 - Inflation and Restriction </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 3.pdf"> Week 3 - Cup products </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 4.pdf"> Week 4 - Tate cohomology </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 5.pdf"> Week 5 - Profinite cohomology </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 6.pdf"> Week 6 - Galois cohomology </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 7.pdf"> Week 7 - Central simple algebras </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 8.pdf"> Week 8 - Relative Brauer group </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 9.pdf"> Week 9 - Brauer group examples </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 10.pdf"> Week 10 - Brauer group as cohomology group </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Week 11.pdf"> Week 11 - Brauer group of a local field </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring 2019/Galois Cohomology Seminar Weeks 12 and 13.pdf"> Weeks 12 and 13 - Local Artin map </a>
+</nav>
+</section>
+
+
+<section>
+<h3>
+	Algebraic Number Theory 2 - Spring 2019
+</h3>
+<p>
+	Professor: Aaron Levin </br>
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2019/Algebraic Number Theory/Algebraic Number Theory 2 HW 1.pdf"> Algebraic Number Theory 2 HW 1  </a>
+</nav>
+
+</section>
+
+
+<section>
+<h3>
+	Algebraic Number Theory 1 - Fall 2018
+</h3>
+<p>
+	Professor: Igor Rapinchuck </br>
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2018/Algebraic Number Theory/Algebraic Number Theory HW1.pdf"> Algebraic Number Theory 1 HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2018/Algebraic Number Theory/Summary of definitions and theorems.pdf"> Summary of definitions and theorems  </a>
+</nav>
+
+</section>
+
+
+<section>
+<h3>
+	Commutative Algebra - Fall 2018
+</h3>
+<p>
+	Professor: George Pappas </br>
+	Textbooks: <i>Commutative Algebra</i>, Atiyah-MacDonald.
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2018/Commutative Algebra/Commutative Algebra Homework 1.pdf"> Commutative Algebra HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2018/Commutative Algebra/Commutative Algebra Homework 2.pdf"> Commutative Algebra HW 2  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2018/Commutative Algebra/Commutative Algebra Homework 3.pdf"> Commutative Algebra HW 3  </a>
+</nav>
+</section>
+
+
+<section>
+<h3>
+	Graph Theory - Spring 2018
+</h3>
+<p>
+	Professor: Peter Maygar </br>
+	Textbooks: <i>Modern Graph Theory</i>, B&eacutela Bollob&aacutes and <i>Graph Theory</i>, Reinhard Diestel
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 1 Solutions.pdf"> Graph Theory HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 2 Solutions.pdf"> Graph Theory HW 2  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 3 Solutions.pdf"> Graph Theory HW 3  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 4 Solutions.pdf"> Graph Theory HW 4  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 5 Solutions.pdf"> Graph Theory HW 5  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 6 Solutions.pdf"> Graph Theory HW 6  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 7 Solutions.pdf"> Graph Theory HW 7  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Graph Theory/Graph Theory HW 8 Solutions.pdf"> Graph Theory HW 8  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Quiver Representations - Spring 2018
+</h3>
+<p>
+	Professor: Michael Shapiro </br>
+	Textbook: <i>Quiver Representations</i>, Ralf Schiffler
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Quiver Representations/Quiver Representations HW 1.pdf"> Quiver Representations HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Quiver Representations/Quiver Representations HW 2.pdf"> Quiver Representations HW 2  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2018/Quiver Representations/Extensions.pdf"> Extensions and Ext  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Algebraic Topology 2 - Fall 2017
+</h3>
+<p>
+	Professor: Matthew Hedden </br>
+	Textbook: <i>Algebraic Topology</i>, Allen Hatcher
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2017/Algebraic Topology 2/Algebraic Topology 2 HW 1.pdf"> Algebraic Topology 2 HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2017/Algebraic Topology 2/Algebraic Topology 2 HW 2.pdf"> Algebraic Topology 2 HW 2  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Lie Algebras - Fall 2017
+</h3>
+<p>
+	Professor: Jonathan Hall
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2017/Lie Algebras/Lie Algebras HW 1.pdf"> Lie Algebras HW 1  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Representation Theory - Fall 2017
+</h3>
+<p>
+	Professor: Michael Shapiro </br>
+	Textbook: <i>Representation Theory: A First Course</i>, William Fulton and Joe Harris
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2017/Representation Theory/Representation Theory HW 1.pdf"> Representation Theory HW 1  </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2017/Representation Theory/Representation Theory Exam.pdf"> Representation Theory Exam  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Complex Analysis - Spring 2017
+</h3>
+<p>
+	Professor: Jeff Schenker </br>
+	Textbook: <i>Complex Function Theory</i>, Donald Sarason
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_1.pdf"> Complex Analysis HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_2.pdf"> Complex Analysis HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_3.pdf"> Complex Analysis HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_4.pdf"> Complex Analysis HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_5.pdf"> Complex Analysis HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_6.pdf"> Complex Analysis HW 6 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_7.pdf"> Complex Analysis HW 7 </a>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_8.pdf"> Complex Analysis HW 8 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Homework_9.pdf"> Complex Analysis HW 9 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Complex Analysis/Theorems.pdf"> Review Sheet - Theorems </a>
+</nav>
+</section>
+</section>
+
+<section>
+<h3>
+	Algebra - Spring 2017
+</h3>
+<p>
+	Professor: Rajesh Kulkarni </br>
+	Textbook: <i>Algebra</i>, Serge Lang
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Homework_1.pdf"> Algebra HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Homework_2.pdf"> Algebra HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Homework_3.pdf"> Algebra HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Homework_4.pdf"> Algebra HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Homework_5.pdf"> Algebra HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebra/Theorems.pdf"> Review Sheet - Theorems </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Algebraic Topology - Spring 2017
+</h3>
+<p>
+	Professor: Matt Hedden </br>
+	Textbook: <i>Algebraic Topology</i>, Allen Hatcher
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_1.pdf"> Algebraic Topology HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_2.pdf"> Algebraic Topology HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_3.pdf"> Algebraic Topology HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_4.pdf"> Algebraic Topology HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_5.pdf"> Algebraic Topology HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_6.pdf"> Algebraic Topology HW 6 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Homework_7.pdf"> Algebraic Topology HW 7 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Spring 2017/Algebraic Topology/Theorems.pdf"> Review Sheet - Theorems </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Real Analysis - Fall 2016
+</h3>
+<p>
+	Professor: Alexander Volberg </br>
+	Textbook: <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>, Elias Stein and Rami Shakarchi
+</p>
+<nav>	
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_1.pdf"> Real Analysis HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_2.pdf"> Real Analysis HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_3.pdf"> Real Analysis HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_4.pdf"> Real Analysis HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_5.pdf"> Real Analysis HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_6.pdf"> Real Analysis HW 6 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_7.pdf"> Real Analysis HW 7 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_8.pdf"> Real Analysis HW 8 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_9.pdf"> Real Analysis HW 9 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_10.pdf"> Real Analysis HW 10 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Homework_11.pdf"> Real Analysis HW 11 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Real Analysis/Theorems.pdf"> Review Sheet - Theorems </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Algebra - Fall 2016
+</h3>
+<p>
+	Professor: Rajesh Kulkarni </br>
+	Textbook:<i>Algebra</i>, Serge Lang
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_1.pdf"> Algebra HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_2.pdf"> Algebra HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_3.pdf"> Algebra HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_4.pdf"> Algebra HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_5.pdf"> Algebra HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_6.pdf"> Algebra HW 6 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_7a.pdf"> Algebra HW 7a </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Homework_7b.pdf"> Algebra HW 7b </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Algebra/Theorems.pdf"> Review Sheet - Theorems  </a>
+</nav>
+</section>
+
+<section>
+<h3>
+	Differential Geometry - Fall 2016
+</h3>
+<p>
+	Professor: Xiaodong Wang </br>
+	Textbook: <i>Introduction to Smooth Manifolds</i>, John Lee
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_1.pdf"> Geometry HW 1 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_2.pdf"> Geometry HW 2 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_3.pdf"> Geometry HW 3 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_4.pdf"> Geometry HW 4 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_5.pdf"> Geometry HW 5 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_6.pdf"> Geometry HW 6 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_7.pdf"> Geometry HW 7 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_8.pdf"> Geometry HW 8 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_9.pdf"> Geometry HW 9 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Homework_10.pdf"> Geometry HW 10 </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Definitions.pdf"> Review Sheet - Definitions </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Fall 2016/Geometry/Theorems.pdf"> Review Sheet - Theorems  </a>
+</nav>
+</section>
+
+
+<section>
+<h3>
+	Undergraduate Thesis
+</h3>
+<p> 
+	Advisor: Christopher Moseley </br>
+	Textbook: <i>Introduction to Lie Algebras</i>, Karin Erdmann and Mark Wildon
+</p>
+<nav>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Undergrad/Undergrad Thesis Lie Algebras.pdf"> Semisimple Complex Lie Algebras </a>
+	<a style="float:left;" href="https://users.math.msu.edu/users/ruiterj2/Math/Documents/Undergrad/Undergrad Thesis Lie Algebras Beamer Presentation.pdf"> Beamer Presentation - Semisimple Complex Lie Algebras </a>
+</nav>
+</section>
+
+<footer>
+	This page last modified on November 26, 2019.
+</footer>
+
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=136043614"></script>
+</body>
